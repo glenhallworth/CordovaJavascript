@@ -1,0 +1,45 @@
+{
+  "ProjectName": "CordovaJavascript",
+  "ProjectGuid": "73509b30-3b7b-4b0b-a0ac-11b500c10e79",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.CordovaJavascript",
+  "DisplayName": "CordovaJavascript",
+  "Author": "",
+  "Description": "CordovaJavascript",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "6.4.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "true",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{1250e61d-2244-41ce-9a3d-b085ba3d8667}",
+  "WP8ProductID": "{fa6cac05-cdfb-4659-96b5-2c3fb528daac}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.CordovaJavascript",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
